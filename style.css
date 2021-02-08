@@ -122,9 +122,11 @@ html {
 .logs ul li{
   display: flex;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   margin: 4px 0px;
-  padding: 3px 0;
-  font-weight: 600;
+  padding: 3px 5px;
+  font-weight: 400;
   font-size: 1.1rem;
   text-transform: uppercase;
   border-radius: 3px;
